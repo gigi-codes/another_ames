@@ -1,5 +1,5 @@
 # Project 2: Another take on Ames, Iowa Housing Data Set 
-I sought to explore the dataset with a very deliberate look at the quantitiative vs qualitative variables. I conjectured that quantitiaive (sq ft, # bed/baths) features would build a suficienty robust model, but found that the quantitiative (human-assessed) qualities were necessary to improve the model beyond the nearly 50/50 baselin. 
+I sought to explore the dataset with a very deliberate look at the quantitiative vs qualitative variables. I conjectured that quantitiaive (sq ft, # bed/baths) features would build a suficienty robust model, but found that the quantitiative (human-assessed) qualities were necessary to improve the model beyond the nearly 50/50 baseline. 
 
 The following study is posed as a scientist within a real-estate agency seeking to determine an appropriate market value, both for purchase and sale, of properties in Ames, Iowa. 
 ---
